@@ -15,8 +15,8 @@
 #include "esphome/components/number/number.h"
 
 extern "C" {
-#include "ruview_core/include/ruview_core.h"
-#include "ruview_core/include/ruview_types.h"
+#include "ruview_core.h"
+#include "ruview_types.h"
 }
 
 #include <string>

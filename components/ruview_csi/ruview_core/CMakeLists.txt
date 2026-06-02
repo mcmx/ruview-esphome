@@ -6,5 +6,5 @@ idf_component_register(
         "runtime_config.c"
         "ruview_core.c"
         "udp_sender.c"
-    INCLUDE_DIRS "."
+    INCLUDE_DIRS "include"
 )
